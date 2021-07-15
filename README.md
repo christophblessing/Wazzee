@@ -1,2 +1,2 @@
 # Wazzee
-Simple Running App tracking you distance and time.
+Simple Running App tracking distance and time.
